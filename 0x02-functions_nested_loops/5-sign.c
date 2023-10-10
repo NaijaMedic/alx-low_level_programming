@@ -4,6 +4,7 @@
 /**
  * print_sign - prints the sign of a number
  * @n: number to be printed
+ * Return: 0
  */
 
 int print_sign(int n)

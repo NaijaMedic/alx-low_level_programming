@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _ans - print absolute value of an integer
+ * _abs - print absolute value of an integer
  * @j: integer to be printed
  * Return: 0
  */

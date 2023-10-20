@@ -3,7 +3,7 @@
 
 /**
  * reset_to_98 - function that takes parameter
- * n: parameter value
+ * @n: parameter value
  * Return: 0
  */
 
